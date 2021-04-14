@@ -184,4 +184,4 @@ public class Principal {
 //ArrayList<Cliente> nombrevariable=new ArrayList(Arrays.asList(clientes));
 //nombrevariable.add(nuevo)nuevo es el nombre del objeto que se crea del tipo de ArrayList;
 //clientes=nombrevariable.toArray(clientes);
-//
+//pruebassshtrgfjh
